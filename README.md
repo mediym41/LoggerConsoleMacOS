@@ -1,0 +1,2 @@
+# LoggerConsoleMacOS
+Прокси GUI консоль
